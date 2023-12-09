@@ -57,7 +57,7 @@ body {
     width: 100%;
     justify-self: space-between;
     height: 100vh;
-    background: url(images/MyBackGroundPictureProfile.jpg) no-repeat;
+    background: url(images/MyBackGroundPictureProfile.png) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
